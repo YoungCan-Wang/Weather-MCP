@@ -1,0 +1,20 @@
+# Node.js 依赖目录
+node_modules
+
+# 编译输出目录
+dist
+build
+
+# 日志文件
+*.log
+
+# 环境变量文件
+.env
+
+# IDE 或编辑器生成的文件
+.idea
+.vscode
+*.code-workspace
+
+# TypeScript 缓存
+*.tsbuildinfo
